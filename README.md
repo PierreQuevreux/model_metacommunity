@@ -22,7 +22,7 @@ R code generating the file containing all the parameters and the ID of matrices 
 
 # aggregation_data.R
 
-R code merging the results of the different simulations. The output data are saved in the "results" folder containing a README.txt detailing the recorded variables and parameters.
+R code merging the results of the different simulations. The output data are saved in the "results" folder.
 
 # Figures.R
 
